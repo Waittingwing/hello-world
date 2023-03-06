@@ -1,2 +1,4 @@
 # hello-world
-My first repository on GitHub
+My first repository on Git
+让我康康
+康康！
